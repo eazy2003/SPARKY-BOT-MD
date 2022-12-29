@@ -15,8 +15,8 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.vcardowner = ['263715882540'] //ganti nomer lu
-global.ownername = "EAZY" //ganti nama lu
-global.developer = "EAZY" //name
+global.ownername = "𝗘𝗔𝗭𝗬" //ganti nama lu
+global.developer = "𝗘𝗔𝗭𝗬" //name
 global.ytname = "YT: SPARKY MON 777" //ur yt chanel name
 global.socialm = "https://www.instagram.com/aswin_sparky.exe" //taroh sosialmedia lu kalo ga punya biarin aja
 global.sgc = "https://chat.whatsapp.com/JTUrdnOziKD44ScoBoggmh" //ganti group lu
@@ -27,8 +27,8 @@ global.owner = ['263715882540'] //ur number
 global.ownernomer = "263715882540" //ur number
 global.ownertag = '263715882540' //ur tag number
 global.premium = ['263715882540'] //ur premium number
-global.botname = 'EAZY MD+' //ur bot name
-global.ownername = "EAZY"
+global.botname = '𝗘𝗔𝗭𝗬 𝗕𝗢𝗧 𝗠𝗗+' //ur bot name
+global.ownername = "𝗘𝗔𝗭𝗬"
 global.linkz = "https://youtube.com/@sparkymon777" //your theme url which will be displayed on whatsapp
 global.dana = "263715882540"
 global.pulsa = "263715882540"
@@ -36,9 +36,9 @@ global.websitex = "https://youtube.com/@sparkymon777" //ur website to be display
 global.websitex1 = "https://sparkymodswa.blogspot.com"
 global.botscript = 'https://github.com/eazy2003/SPARKY-BOT-MD' //script link
 global.themeemoji = "👀" //ur theme emoji
-global.packname = "E A Z Y" //ur sticker watermark packname
-global.author = "EAZY" //ur sticker watermark author
-global.wm = "E A Z Y" //ur watermark
+global.packname = "𝗘 𝗔 𝗭 𝗬" //ur sticker watermark packname
+global.author = "𝗘𝗔𝗭𝗬" //ur sticker watermark author
+global.wm = "𝗘 𝗔 𝗭 𝗬" //ur watermark
 
 // Other
 global.sessionName = 'session'
