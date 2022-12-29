@@ -2,7 +2,7 @@
 
 <h1 align="center">EAZY-BOT-MD<br></h1>
 <p align="center">
-<img src="https://i.imgur.com/u9RfIfy.jpeg" alt="animated" width="255" height="350" />
+<img src="https://i.imgur.com/OvAmhNI.jpeg" alt="animated" width="255" height="350" />
 </p>
 
 <p align="center">
