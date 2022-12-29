@@ -1,6 +1,6 @@
 
 
-<h1 align="center">SPARKY-BOT-MD<br></h1>
+<h1 align="center">EAZY-BOT-MD<br></h1>
 <p align="center">
 <img src="https://i.imgur.com/u9RfIfy.jpeg" alt="animated" width="255" height="350" />
 </p>
@@ -39,7 +39,7 @@ Sparky Bot Multi Device is a automated whatsapp bot created by <a href="https://
 
 ## ```Connect With Me```
 <p align="center">
-<a href="https://wa.me/917012984396"><img src="https://img.shields.io/badge/Contact SPARKY-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/263715882540"><img src="https://img.shields.io/badge/Contact SPARKY-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://chat.whatsapp.com/JTUrdnOziKD44ScoBoggmh"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://youtube.com/@sparkymon777"><img src="https://img.shields.io/badge/Subscribe SPARKY'S CHANNEL-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 </p>
@@ -51,7 +51,7 @@ Sparky Bot Multi Device is a automated whatsapp bot created by <a href="https://
 
 # Setup For Deployment 👇
 
-- FORK THE REPOSITORY [Here](https://github.com/Sparkymon777/SPARKY-BOT-MD/fork)
+- FORK THE REPOSITORY [Here](https://github.com/eazy2003/SPARKY-BOT-MD/fork)
 
 ## `For Termux/Ssh/Ubuntu`
 ```bash
@@ -65,7 +65,7 @@ pkg install nodejs
 pkg install ffmpeg
 pkg install wget
 pkg install imagemagick
-git clone https://github.com/Sparkymon777/SPARKY-BOT-MD
+git clone https://github.com/eazy2003/SPARKY-BOT-MD
 cd SPARKY-BOT-MD
 npm start
 ```
@@ -77,7 +77,7 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagrmagick
 apt install bash
-git clone https://github.com/Sparkymon777/SPARKY-BOT-MD
+git clone https://github.eazy2003/SPARKY-BOT-MD
 cd SPARKY-BOT-MD
 npm start
 ```
@@ -88,9 +88,9 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
   
   
   ## Thanks To
-* [`Xeon`](https://github.com/DGXeon)
+* [`EAZY`](https://github.com/eazy2003)
 * [`Aswin Sparky`](https://github.com/Sparkymon777)
 
 
 ## Special Thanks to
-*[`ANDYMRlIT`](https://github.com/andymrlit)
+*[`PANASHE`](https://github.com/eazy2003)
