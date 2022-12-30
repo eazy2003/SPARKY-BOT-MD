@@ -49,14 +49,14 @@
       "deviceSignature": "Xm/Hrjuf1zHn4gaVmvnPXuIiTCQbgVpYSbtbdAjc/SROlzwrLPIeGcE0Udxsskic1aF+MTzxNolW8yNzjtsojA=="
     },
     "me": {
-      "id": "917510570580:5@s.whatsapp.net",
+      "id": "263715882540:5@s.whatsapp.net",
       "verifiedName": "",
       "name": "JUNGKOOK EFX"
     },
     "signalIdentities": [
       {
         "identifier": {
-          "name": "917510570580:5@s.whatsapp.net",
+          "name": "263715882540:5@s.whatsapp.net",
           "deviceId": 0
         },
         "identifierKey": {
@@ -354,7 +354,7 @@
       }
     },
     "sessions": {
-      "917510570580.0": {
+      "263715882540.0": {
         "_sessions": {
           "BRDb0O9kqrDWqsurfq9eY5EEJfQTWMI2xG8vPLbo8Xtq": {
             "registrationId": 905615842,
@@ -397,7 +397,7 @@
         },
         "version": "v1"
       },
-      "918129108904.0": {
+      "263715882540.0": {
         "_sessions": {
           "Ba7bOYjm1xyv0OZZDK2wg97eWJCaGAPK6LNn7zTjS3IP": {
             "registrationId": 1601069848,
@@ -492,7 +492,7 @@
       }
     },
     "senderKeys": {
-      "status@broadcast::918129108904::0": [
+      "status@broadcast::263715882540::0": [
         {
           "senderKeyId": 1552460309,
           "senderChainKey": {
